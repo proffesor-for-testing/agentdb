@@ -223,7 +223,7 @@
     "@ruvector/ruvllm-linux-x64-gnu": "2.0.1",
     "@ruvector/ruvllm-win32-x64-msvc": "2.0.1",
     "@huggingface/transformers": {
-      "sharp": "^0.34.5"
+      "sharp": "^0.35.5"
     }
   }
 }
